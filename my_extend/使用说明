@@ -1,6 +1,6 @@
 1. 日常开发在此目录下
 2. 提交到origin远程
-git push origin main
+git push origin master
 3. 如果上游项目有更新，
 git fetch upstream
 git merge upstream/main

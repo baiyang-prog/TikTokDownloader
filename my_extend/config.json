@@ -1,0 +1,12 @@
+{
+    "search_auto_download": {
+        "enable": true,
+        "tabs": [
+            0,
+            1
+        ],
+        "folder_name": "搜索_{keyword}",
+        "default_pages": 0,
+        "echo_params": true
+    }
+}
